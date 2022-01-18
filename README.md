@@ -7,3 +7,6 @@
  7. Чем задача оптимизации отличается от задачи машинного обучения?
  8. В чём заключается цель оптимизации глубокой сети (минимизация функции стоимости), каким образом она достигается (поиск области с нулевым градиентом)?
  9. В чём особенность функции активации relu, почему она помогает в обучении глубоких сетей и почему не возникает проблем в точке минимума функции стоимости?
+
+Проверьте свои навыки: 26 вопросов и ответов с собеседований по Data Science. [Часть1](https://proglib.io/p/proverte-svoi-navyki-26-voprosov-i-otvetov-s-sobesedovaniy-po-data-science-2021-01-18), [Часть2](https://proglib.io/p/proverte-svoi-navyki-eshche-26-voprosov-s-sobesedovaniy-po-data-science-s-otvetami-2021-01-19)    
+[Machine Learning Interview Questions](https://github.com/andrewekhalel/MLQuestions)    
